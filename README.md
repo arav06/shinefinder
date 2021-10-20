@@ -1,6 +1,6 @@
 # ShineFinder
 
-#### Simple web scraper which will help you find jobs
+#### Simple web scraper which will help you find a job
 
 This will scrape job data such as job title, company, experience required, etc. from [Shine](https://shine.com)
 
