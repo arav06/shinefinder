@@ -20,7 +20,7 @@ You will need to provide the job you are looking for, your location preference a
 
 ```md
 python3 shinefinder.py -j engineer -p 1 -l Delhi
-python3 shinefinder.py --job "marketing executive" --location Mumbai -p 3
+python3 shinefinder.py --job "marketing executive" --location Mumbai --pages 3
 ```
 
 ***
