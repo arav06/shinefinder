@@ -9,7 +9,7 @@ Once it finishes scraping, it will save all the information in a file
 ## Setup
 
 ```txt
-git clone https://github.com/arav06/shinefinder
+git clone https://github.com/arav06/web-scraping
 cd web-scraper/shinefinder
 pip3 install -r requirements.txt
 python3 shinefinder.py -h
